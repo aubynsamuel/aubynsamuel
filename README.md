@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **UI/UX design**
 
-- 💬 Ask me about **react native, firebase, react, next, express, node.js**
+- 💬 Ask me about **react native, firebase, react, next.js, express.js, node.js**
 
 - 📫 How to reach me **aubynsamuel05@gmail.com**
 
