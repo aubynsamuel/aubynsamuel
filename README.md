@@ -33,7 +33,7 @@ A real-time chat application built with **Expo Router**, **React Native**, and *
 ---
 
 ### 🌍 [World Brief](https://github.com/aubynsamuel/World-Brief) (News Application)
-A sleek and modern news application built with **React Native**. World Brief delivers curated news articles with the following features:
+A news application built with **React Native**. World Brief delivers curated news articles with the following features:
 - Multiple news categories (Local, Business, Technology, Sports, Entertainment, Health, Science)
 - Dark and light mode support
 - Article bookmarking for later reading
