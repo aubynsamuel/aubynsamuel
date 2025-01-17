@@ -1,7 +1,7 @@
 # 💫 About Me
-🔭 I’m currently working on building an online multiplayer card game with React Native, featuring full offline support. <br/>
+🔭 I’m currently working on building an online multiplayer card game with React Native with full offline support. <br/>
 🌱 I’m currently learning animations in mobile apps to make interactions smoother and more engaging. <br/>
-💬 Ask me about React Native, mobile development, or creating seamless user experiences. <br/>
+💬 Ask me about React Native and mobile development. <br/>
 ✨ I’m passionate about building apps that connect people and solve real-world problems.
 
 # 💻 Tech Stack
@@ -14,6 +14,11 @@
 
 ### **Tools & Design**  
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+
+# Connect With Me
+### 📫 How to reach me
+
+Email: aubynsamuel05@gmail.com
 
 🤝 Feel free to connect or reach out if you'd like to collaborate on an exciting project or just chat about tech!
 
