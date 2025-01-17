@@ -1,7 +1,7 @@
 # 💫 About Me
-🔭🔭 I’m currently working on building an online multiplayer card game with React Native, featuring full offline support.
-🌱 I’m currently learning animations in mobile apps to make interactions smoother and more engaging.
-💬 Ask me about React Native, mobile development, or creating seamless user experiences.
+🔭 I’m currently working on building an online multiplayer card game with React Native, featuring full offline support. <br/>
+🌱 I’m currently learning animations in mobile apps to make interactions smoother and more engaging. <br/>
+💬 Ask me about React Native, mobile development, or creating seamless user experiences. <br/>
 ✨ I’m passionate about building apps that connect people and solve real-world problems.
 
 # 💻 Tech Stack
