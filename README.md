@@ -17,14 +17,14 @@
 
 # 🌟 Featured Projects
 
-## 🔥 [Flash Send](https://github.com/aubynsamuel/Chat-App) (Real-Time Chat Application)
+### 🔥 [Flash Send](https://github.com/aubynsamuel/Chat-App) (Real-Time Chat Application)
 A real-time chat application built with **Expo Router**, **React Native**, and **Firebase**. It offers a seamless messaging experience with a range of powerful features:
 - Real-time messaging with Firebase Firestore
 - Secure authentication via Firebase Auth
-- Offline message caching with react-native-mmkv
-- Multimedia messaging (images, audio, and location sharing)
-- Push notifications powered by Expo
-- Dynamic theme support with customizable chat backgrounds
+- Full Offline Support with caching
+- Multimedia messaging (images, audio recordings, and location sharing)
+- Push notifications with Expo Notifications Service
+- Multi theme support with customizable chat backgrounds
 - Read receipts and message delivery status
 - Profile management with customizable user profiles
 
@@ -32,7 +32,7 @@ A real-time chat application built with **Expo Router**, **React Native**, and *
 
 ---
 
-## 🌍 [World Brief](https://github.com/aubynsamuel/World-Brief) (News Application)
+### 🌍 [World Brief](https://github.com/aubynsamuel/World-Brief) (News Application)
 A sleek and modern news application built with **React Native**. World Brief delivers curated news articles with the following features:
 - Multiple news categories (Local, Business, Technology, Sports, Entertainment, Health, Science)
 - Dark and light mode support
