@@ -17,8 +17,8 @@
 
 # 🌟 Featured Projects
 
-### 🔥 [Flash Send](https://github.com/aubynsamuel/Chat-App) (Real-Time Chat Application)
-A real-time chat application built with **Expo Router**, **React Native**, and **Firebase**. It offers a seamless messaging experience with a range of powerful features:
+### 🔥 [Flash Send](https://github.com/aubynsamuel/React-Native-Chat-App) (Real-Time Chat Application)
+A real-time chat application built with **Expo**, **React Native**, and **Firebase**. It offers a seamless messaging experience with a range of powerful features:
 - Real-time messaging with Firebase Firestore
 - Secure authentication via Firebase Auth
 - Full Offline Support with caching
@@ -28,7 +28,7 @@ A real-time chat application built with **Expo Router**, **React Native**, and *
 - Read receipts and message delivery status
 - Profile management with customizable user profiles
 
-[View Repository](https://github.com/aubynsamuel/Chat-App)
+[View Repository](https://github.com/aubynsamuel/React-Native-Chat-App)
 
 ---
 
