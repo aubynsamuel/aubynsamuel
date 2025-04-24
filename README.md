@@ -1,23 +1,25 @@
+Hi! I'm Samuel Aubyn, a passionate Mobile & Web Developer building real-time apps and seamless cross-platform experiences. I love solving real-world problems with clean UI and scalable backend systems.
+
 # 💫 About Me
 🔭 I’m currently working on building an online multiplayer card game with React Native with full offline support. <br/>
 🌱 I’m currently learning animations in mobile apps to make interactions smoother and more engaging. <br/>
-💬 Ask me about React Native and mobile development. <br/>
+💬 Ask me about React Native and Android Development. <br/>
 ✨ I’m passionate about building apps that connect people and solve real-world problems.
 
 # 💻 Tech Stack
 
-### **Frontend**  
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)  
+### **Languages**  
+![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
-### **Backend**  
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)  ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white)  
+### **Frameworks & Libraries**
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)   ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)   ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)   ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)   ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 
-### **Tools & Design**  
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+### **Runtime & Platform Services**
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)   ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)   ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white)
 
 # 🌟 Featured Projects
 
-### 🔥 [Flash Send](https://github.com/aubynsamuel/React-Native-Chat-App) (Real-Time Chat Application)
+### 🔥 [Flash Send](https://github.com/aubynsamuel/flashsend-rn) (Real-Time Chat Application)
 A real-time chat application built with **Expo**, **React Native**, and **Firebase**. It offers a seamless messaging experience with a range of powerful features:
 - Real-time messaging with Firebase Firestore
 - Secure authentication via Firebase Auth
@@ -28,11 +30,11 @@ A real-time chat application built with **Expo**, **React Native**, and **Fireba
 - Read receipts and message delivery status
 - Profile management with customizable user profiles
 
-[View Repository](https://github.com/aubynsamuel/React-Native-Chat-App)
+[View Repository](https://github.com/aubynsamuel/flashsend-rn)
 
 ---
 
-### 🌍 [World Brief](https://github.com/aubynsamuel/World-Brief) (News Application)
+### 🌍 [World Brief](https://github.com/aubynsamuel/world-brief) (News Application)
 A news application built with **React Native**. World Brief delivers curated news articles with the following features:
 - Multiple news categories (Local, Business, Technology, Sports, Entertainment, Health, Science)
 - Dark and light mode support
@@ -41,7 +43,7 @@ A news application built with **React Native**. World Brief delivers curated new
 - Infinite scroll for seamless news browsing
 - Optimized performance with caching
 
-[View Repository](https://github.com/aubynsamuel/World-Brief)
+[View Repository](https://github.com/aubynsamuel/world-brief)
 
 # Connect With Me
 ### 📫 How to reach me
