@@ -48,7 +48,7 @@ A news application built with **React Native**. World Brief delivers curated new
 # Connect With Me
 ### 📫 How to reach me
 
-Email: [Email me](aubynsamuel05@gmail.com)
+  [Email](mailto:aubynsamuel05@gmail.com)
 
 🤝 Feel free to connect or reach out if you'd like to collaborate on an exciting project or just chat about tech!
 
