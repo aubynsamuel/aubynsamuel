@@ -1,10 +1,6 @@
-Hi! I'm Samuel Aubyn, a passionate Mobile & Web Developer building real-time apps and seamless cross-platform experiences. I love solving real-world problems with clean UI and scalable backend systems.
+Hi, I’m Samuel Aubyn, a Full Stack Software Developer specializing in mobile and web applications.
 
-# 💫 About Me
-🔭 I’m currently working on building an online multiplayer card game with React Native with full offline support. <br/>
-🌱 I’m currently learning animations in mobile apps to make interactions smoother and more engaging. <br/>
-💬 Ask me about React Native and Android Development. <br/>
-✨ I’m passionate about building apps that connect people and solve real-world problems.
+I’m passionate about crafting smooth user experiences and building apps that solve real-world problems.
 
 # 💻 Tech Stack
 
