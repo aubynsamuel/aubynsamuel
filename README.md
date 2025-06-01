@@ -1,6 +1,6 @@
-Hi, I’m Samuel Aubyn, a Full Stack Software Developer specializing in mobile and web applications.
+Hi, I’m Samuel Aubyn, a Full Stack Software Developer focused on mobile and web.
 
-I’m passionate about crafting smooth user experiences and building apps that solve real-world problems.
+I build fast, scalable and beautiful apps that solve real-world problems.
 
 # 💻 Tech Stack
 
