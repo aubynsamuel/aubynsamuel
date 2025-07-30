@@ -28,6 +28,11 @@ I care deeply about user experience, clean architecture, and solving real-world 
 
 ## 🌟 Featured Projects
 
+- **[ClipSync](https://github.com/aubynsamuel/clipsync-android)**  
+  _A cross-platform app that enables seamless clipboard sharing between Windows computers and Android devices over Bluetooth_
+
+  **Tech:** JetPack Compose, Kotlin, Dotnet, WPF, C#
+
 - **[FlashSend](https://github.com/aubynsamuel/flashsend-android)**  
   _A real-time chat app with modern Material 3 UI, media sharing, notifications, message editing, and full Firebase backend integration_
 
@@ -43,10 +48,10 @@ I care deeply about user experience, clean architecture, and solving real-world 
 
   **Tech:** JetPack Compose, Kotlin, Room, ML-Kit, Dagger-Hilt
 
-- **[World Brief](https://github.com/aubynsamuel/world-brief)**  
+<!-- - **[World Brief](https://github.com/aubynsamuel/world-brief)**  
    _A lightweight mobile news app offering curated stories by category, with features like dark mode, search, bookmarks, and offline caching_
 
-  **Tech:** React Native, Expo, TypeScript, News API
+  **Tech:** React Native, Expo, TypeScript, News API -->
 
 ---
 
