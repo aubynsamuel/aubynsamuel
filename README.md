@@ -34,7 +34,7 @@ I care deeply about user experience, clean architecture, and solving real-world 
   **Tech:** JetPack Compose, Kotlin, Dotnet, WPF, C#
 
 - **[FlashSend](https://github.com/aubynsamuel/flashsend-android)**  
-  _A real-time chat app with modern Material 3 UI, media sharing, notifications, message editing, and full Firebase backend integration_
+  _A real-time chat app built with modern Material 3 UI, media sharing, notifications, message editing, and full Firebase backend integration_
 
   **Tech:** JetPack Compose, Kotlin, Firebase, Room, Dagger-Hilt
 
