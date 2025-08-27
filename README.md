@@ -100,7 +100,7 @@ I'm always excited to work on innovative projects and connect with fellow develo
 
 ## ☕ Support My Work
 
-**If you find my work helpful or inspiring, consider buying me a coffee to keep me fueled!**
+**If you find my work helpful or inspiring, consider buying me a coffee to keep me fueled!** 
 
 <a href="https://www.buymeacoffee.com/aubynsamuel">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" alt="Buy Me A Coffee"/>
