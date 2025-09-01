@@ -31,7 +31,7 @@ I care deeply about user experience, clean architecture, and solving real-world 
 - **[ClipSync](https://github.com/aubynsamuel/clipsync-android)**  
   _A cross-platform app that enables seamless clipboard sharing between Windows computers and Android devices over Bluetooth_
 
-  **Tech:** JetPack Compose, Kotlin, Dotnet, WPF, C#
+  **Tech:** JetPack Compose, Kotlin, .NET, WPF, C#
 
 - **[FlashSend](https://github.com/aubynsamuel/flashsend-android)**  
   _A real-time chat app built with modern Material 3 UI, media sharing, notifications, message editing, and full Firebase backend integration_
@@ -43,10 +43,16 @@ I care deeply about user experience, clean architecture, and solving real-world 
 
   **Tech:** React Native, Expo, Socket.io, Firebase, TypeScript, Tailwind
 
+- **[Truth Guard](https://github.com/aubynsamuel/fake-news-detector)**  
+   _A misinformation detection system/app that analyzes news headlines/claims to determine their credibility using clickbait detection, source credibility checks, claim verification, and network distribution analysis_
+
+  **Tech:** React, TypeScript, Python, SciKit learn, Pytorch
+  
 - **[CardIt](https://github.com/aubynsamuel/cardIt)**  
   _A digital business card app that lets users create profiles, generate live-updating QR codes, and scan contacts, all with local privacy and selective sharing_
 
   **Tech:** JetPack Compose, Kotlin, Room, ML-Kit, Dagger-Hilt
+
 
 <!-- - **[World Brief](https://github.com/aubynsamuel/world-brief)**  
    _A lightweight mobile news app offering curated stories by category, with features like dark mode, search, bookmarks, and offline caching_
