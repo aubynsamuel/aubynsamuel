@@ -15,7 +15,7 @@ I care deeply about user experience, clean and mentainable software, and solving
 ### 💻 Languages & Frameworks
 
 [![Languages & Frameworks](https://go-skill-icons.vercel.app/api/icons?i=kotlin,javascript,typescript,python,cs,jetpackcompose,reactnative,expo,android,tensorflow&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
-
+ 
 [![Languages & Frameworks](https://go-skill-icons.vercel.app/api/icons?i=react,next,nodejs,express,socketio,tailwind,materialui,unity,html,css&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
 
 ### ⚙ Tools & Other Skills
