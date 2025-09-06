@@ -1,5 +1,5 @@
 ## About Me
-
+ 
 Hi, I'm **Samuel**, a passionate full-stack developer focused on building modern and performant mobile and web applications.  
 I care deeply about user experience, clean and mentainable software, and solving real-world problems.
 
