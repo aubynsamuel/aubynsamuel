@@ -1,7 +1,7 @@
 ## About Me
  
-Hi, I'm **Samuel**, a passionate full-stack developer focused on building modern and performant mobile and web applications.  
-I care deeply about user experience, clean and mentainable software, and solving real-world problems.
+I'm **Samuel**, a full-stack developer turning ideas into modern, fast, and reliable apps for web and mobile.
+
 
 ## 🧠 Currently Exploring
 
@@ -44,7 +44,7 @@ I care deeply about user experience, clean and mentainable software, and solving
   **Tech:** React Native, Expo, Socket.io, Firebase, TypeScript, Tailwind
 
 - **[Truth Guard](https://github.com/aubynsamuel/fake-news-detector)**  
-   _A misinformation detection system/app that analyzes news headlines/claims to determine their credibility using clickbait detection, source credibility checks, claim verification, and network distribution analysis_
+   _A misinformation detection app that analyzes news headlines for credibility using clickbait detection, source checks, claim verification, and network analysis_
 
   **Tech:** React, TypeScript, Python, SciKit learn, Pytorch
   
