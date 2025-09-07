@@ -29,7 +29,7 @@ I'm **Samuel**, a full-stack software developer who turns ideas into modern, fas
 ## 🌟 Featured Projects
 
 - **[ClipSync](https://github.com/aubynsamuel/clipsync-android)**  
-  _A cross-platform app that lets you instantly share clipboard text between Android and Windows devices over secure Bluetooth_
+  _A cross-platform app that lets you instantly share clipboard text between Android and Windows devices over Bluetooth_
 
   **Tech:** JetPack Compose, Kotlin, .NET, WPF, C#
 
