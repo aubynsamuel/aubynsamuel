@@ -1,6 +1,6 @@
 ## About Me
  
-I'm **Samuel**, a full-stack developer turning ideas into modern, fast, and reliable apps for web and mobile.
+I'm **Samuel**, a full-stack software developer who turns ideas into modern, fast, and reliable apps for web and mobile.
 
 
 ## 🧠 Currently Exploring
@@ -34,7 +34,7 @@ I'm **Samuel**, a full-stack developer turning ideas into modern, fast, and reli
   **Tech:** JetPack Compose, Kotlin, .NET, WPF, C#
 
 - **[FlashSend](https://github.com/aubynsamuel/flashsend-android)**  
-  _A real-time chat app built with modern Material 3 UI, media sharing, notifications, message editing, and full Firebase backend integration_
+  _A real-time chat app Material 3 UI, media sharing, notifications, message editing_
 
   **Tech:** JetPack Compose, Kotlin, Firebase, Room, Dagger-Hilt
 
@@ -49,7 +49,7 @@ I'm **Samuel**, a full-stack developer turning ideas into modern, fast, and reli
   **Tech:** React, TypeScript, Python, SciKit learn, Pytorch
   
 - **[CardIt](https://github.com/aubynsamuel/cardIt)**  
-  _A digital business card app that lets users create profiles, generate live-updating QR codes, and scan contacts, all with local privacy and selective sharing_
+  _A contact-sharing app that lets you share multiple details (phone, email, socials) with a single QR scan, while giving you full control over what information you choose to share_
 
   **Tech:** JetPack Compose, Kotlin, Room, ML-Kit, Dagger-Hilt
 
