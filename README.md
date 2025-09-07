@@ -34,7 +34,7 @@ I'm **Samuel**, a full-stack software developer who turns ideas into modern, fas
   **Tech:** JetPack Compose, Kotlin, .NET, WPF, C#
 
 - **[FlashSend](https://github.com/aubynsamuel/flashsend-android)**  
-  _A real-time chat app Material 3 UI, media sharing, notifications, message editing_
+  _A real-time chat app that enables fast and reliable messaging with support for media, notifications, and offline use_
 
   **Tech:** JetPack Compose, Kotlin, Firebase, Room, Dagger-Hilt
 
