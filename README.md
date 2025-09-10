@@ -30,6 +30,7 @@ I'm **Samuel**, a full-stack software developer who turns ideas into modern, fas
 
 <!-- A selection of the apps and systems I’ve built, solving real-world problems across productivity, communication, gaming, and information integrity. -->
 
+
 - **[ClipSync](https://github.com/aubynsamuel/clipsync-android)**  
   _A cross-platform app that lets you instantly share clipboard text between Android and Windows devices over Bluetooth_
 
