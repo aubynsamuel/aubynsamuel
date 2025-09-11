@@ -8,7 +8,7 @@ I'm **Samuel**, a full-stack software developer who turns ideas into modern, fas
 - 🤖 AI & Machine Learning
 - 📚 Clean Architecture & System Design
 
---- 
+---   
 
 ## 🛠️ Tech Stack
 
